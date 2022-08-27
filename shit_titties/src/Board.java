@@ -8,7 +8,7 @@ public class Board {
 	
 	//2D array of ROWS-by-COLS Cell instances
 	Cell [][]  cells;
-	
+	 
 	/** Constructor to create the game board */
 	public Board() {
 		
